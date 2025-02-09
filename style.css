@@ -493,7 +493,7 @@ h1{
 .video-layer-1{
     width: 460px;
     height: 260px;
-    background: url(/Images/openai-poster@2x.jpg);
+    background: url("Images/man.jpg");
     background-size: cover;
     border-radius: 20px;
     display: flex;
@@ -514,7 +514,7 @@ h1{
 .video-layer-2{
     width: 144px;
     height: 260px;
-    background: url(/Images/spotify-poster@2x.jpg);
+    background: url("Images/spotify.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -531,7 +531,7 @@ h1{
 .video-layer-3{
     width: 144px;
     height: 260px;
-    background: url(/Images/ibm-poster@2x.jpg);
+    background: url("Images/lady.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -548,7 +548,7 @@ h1{
 .video-layer-4{
     width: 144px;
     height: 260px;
-    background: url(/Images/background-ari.jpg);
+    background: url("Images/cycle.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
