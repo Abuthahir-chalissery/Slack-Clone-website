@@ -497,10 +497,15 @@ h1{
     background-size: cover;
     border-radius: 20px;
     display: flex;
-    align-items: center;
+    justify-content:  center;
+    flex-direction: column;
 
     img{
         width: 110px;
+    }
+
+    p{
+        padding-top: 20px;
     }
 
 
